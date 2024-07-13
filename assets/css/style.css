@@ -92,6 +92,7 @@ html, body {
 .content>p{
     padding-left: 3%;
     padding-right: 3%;
+    text-indent: 2.5em;
 }
 .content>img{
     width: 450px;
