@@ -95,6 +95,8 @@ html, body {
     text-indent: 2.5em;
 }
 .content>img{
+    display: flex;
+    align-item: center;
     width: 450px;
     height: 450px;
     object-fit: cover;
