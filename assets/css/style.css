@@ -126,10 +126,10 @@ html, body {
         padding-right: 4%;
     }
 }
-@media screen and (max-width: 1553px) {
+@media screen and (max-width: 1600px) {
     .content>img{
-        width: 150px;
-        height: 150px;
+        width: 250px;
+        height: 250px;
         object-fit: cover;
         padding-left: 3%;
         padding-right: 4%
