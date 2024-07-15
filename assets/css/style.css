@@ -100,7 +100,7 @@ html, body {
     padding-right: 3%;
     text-indent: 2.5em;
 }
-@media not screen and (min-width: 1840px) {
+@media screen and (min-width: 1840px) {
     .content>img{
         width: 450px;
         height: 450px;
@@ -108,7 +108,7 @@ html, body {
         padding-left: 3%;
     }
 }
-@media not screen and (min-width: 600px) {
+@media screen and (min-width: 600px) {
     .content>img{
         width: 250px;
         height: 250px;
