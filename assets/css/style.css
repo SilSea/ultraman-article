@@ -100,13 +100,15 @@ html, body {
     padding-right: 3%;
     text-indent: 2.5em;
 }
-.content>img{
-    width: 450px;
-    height: 450px;
-    object-fit: cover;
-    padding-left: 3%;
+@media not screen and (min-width: 1840px) {
+    .content>img{
+        width: 450px;
+        height: 450px;
+        object-fit: cover;
+        padding-left: 3%;
+    }
 }
-@media not screen and (max-width: 1600px) {
+@media not screen and (min-width: 600px) {
     .content>img{
         width: 250px;
         height: 250px;
