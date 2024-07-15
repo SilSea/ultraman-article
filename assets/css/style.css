@@ -114,6 +114,7 @@ html, body {
         height: 350px;
         object-fit: cover;
         padding-left: 3%;
+        padding-right: 7%;
     }
 }
 
